@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lady-Diane-Prado
 - 👀 I’m interested in Web Development, specializing in HTML and PHP
-- 🌱 I’m currently learning Ethical Hacking and currently improving my knowledge on Web Development
+- 🌱 I’m currently learning JavaScript in addition to my knowledge on Web Development
 - 💞️ I’m looking to collaborate on Front-end and Back-end Projects
 - 📫 Contact me via lady.prado.02@gmail.com
 
